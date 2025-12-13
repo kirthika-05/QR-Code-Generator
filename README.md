@@ -14,4 +14,4 @@ Users can paste a URL, instantly get a QR code, and scan it with their device to
 ---
 
 ## Tech Stack
-- HTML, CSS, JavaScrip
+- HTML, CSS, JavaScript
